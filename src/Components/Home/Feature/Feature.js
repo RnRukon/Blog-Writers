@@ -17,7 +17,7 @@ const Feature = () => {
                         aria-controls="panel1a-content"
                         id="panel1a-header"
                     >
-                        <Typography> Lorem ipsum dolor sit amet</Typography>
+                        <Typography> Being creative within the constraints of client briefs</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
                         <div className='row'>
@@ -26,8 +26,7 @@ const Feature = () => {
                             </div>
                             <div >
                                 <Typography>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                                    malesuada lacus ex, sit amet blandit leo lobortis eget.
+                                    Being creative within the constraints of client briefs, budgets and timelines is the norm for most agencies. However, investing in research and development as a true, creative outlet is a powerful addition. In these side projects alone, your team members can pool their expertise to create and shape their own vision — a powerful way to develop motivation, interdisciplinary skills and close relationships.
                                 </Typography>
                             </div>
                         </div>
@@ -39,7 +38,7 @@ const Feature = () => {
                         aria-controls="panel1a-content"
                         id="panel1a-header"
                     >
-                        <Typography> Lorem ipsum dolor sit amet</Typography>
+                        <Typography> Powerful way to develop motivation</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
                         <div className='row'>
@@ -48,8 +47,7 @@ const Feature = () => {
                             </div>
                             <div >
                                 <Typography>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                                    malesuada lacus ex, sit amet blandit leo lobortis eget.
+                                    In these side projects alone, your team members can pool their expertise to create and shape their own vision — a powerful way to develop motivation, interdisciplinary skills and close relationships.   creative outlet is a powerful addition. In these side projects alone, your team members can pool their expertise to create and shape their own vision — a powerful way to develop motivation, interdisciplinary skills and close relationships.
                                 </Typography>
                             </div>
                         </div>
@@ -61,7 +59,7 @@ const Feature = () => {
                         aria-controls="panel1a-content"
                         id="panel1a-header"
                     >
-                        <Typography> Lorem ipsum dolor sit amet</Typography>
+                        <Typography>In these side projects alone</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
                         <div className='row'>
@@ -70,8 +68,8 @@ const Feature = () => {
                             </div>
                             <div >
                                 <Typography>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                                    malesuada lacus ex, sit amet blandit leo lobortis eget.
+                                    Being creative within the constraints of client briefs, budgets and timelines is the norm for most agencies. However, investing in research and development as a true, creative outlet is a powerful addition.
+                                    creative outlet is a powerful addition. In these side projects alone, your team members can pool their expertise to create and shape their own vision — a powerful way to develop motivation, interdisciplinary skills and close relationships.
                                 </Typography>
                             </div>
                         </div>

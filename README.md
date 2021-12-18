@@ -8,7 +8,7 @@ Server side code github repository: (https://github.com/RnRukon/Blogs-Writing-se
 Live side : (https://blog-writers.netlify.app/).
 
 # Technology:
-full-stack website using React, firebase, react router, node, express, mongodb ,ChatEngin etc.
+full-stack website using React,Redux firebase, react router, node, express, mongodb ,ChatEngin etc.
 
 1. user can Blog post in website.
 2. user can comment and like in blog post.
