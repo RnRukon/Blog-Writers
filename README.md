@@ -1,7 +1,10 @@
 # Getting Started with Create React App
+#Task Description: : (https://docs.google.com/document/d/1V4hvoA4x51HlT5omCll9AGbe4dv7TpfcFVF6c8QMzLw/edit?usp=sharing)
 
-Client side code github repository: (https://blog-writers.netlify.app/).
+Client side code github repository: (https://github.com/RnRukon/Blog-Writers).
+
 Server side code github repository: (https://github.com/RnRukon/Blogs-Writing-server).
+
 Live side : (https://blog-writers.netlify.app/).
 
 # Technology:
