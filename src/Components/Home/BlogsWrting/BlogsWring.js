@@ -90,7 +90,7 @@ const BlogsWring = () => {
             <h2 className=' text-3xl text-green-500'>Blogs</h2>
             <div className=''>
                 {
-                    blogs.slice(0, 4).reverse().map(blog =>
+                    blogs?.reverse().map(blog =>
                         <Accordion key={blog?._id} className="mt-3" expanded={expanded === 'panel1'}>
 
                             <AccordionSummary
@@ -185,8 +185,8 @@ const BlogsWring = () => {
 
                                     <div className=' navbar-nav-scroll'>
                                         {
-                                            blog?.comments?.reverse().map(userComment =>
-                                                <div >
+                                            blog?.comments?.reverse().map((userComment, index) =>
+                                                <div key={index}>
                                                     <hr />
                                                     <AccordionSummary>
                                                         <Avatar alt="Remy Sharp" src={userComment?.commentUserPhoto} />
